@@ -1,10 +1,11 @@
-# 🚀 AI Genius Season 6 — Session Resources
+# 🚀 Microsoft AI Genius Season 6 — Episode 3 Resources
 
-### From legacy modernization to AI operations
+### Episode 3 | From legacy modernization to AI operations
 
 > Modernize applications and operate AI systems at scale with self-healing agents and enterprise-grade operational intelligence.
 
-📅 **Session page:** [Microsoft Reactor — Event 27641](https://developer.microsoft.com/en-us/reactor/events/27641/)
+📅 **Episode page:** [Microsoft Reactor — Event 27641](https://developer.microsoft.com/en-us/reactor/events/27641/)  
+📺 **Series page:** [Microsoft AI Genius Series — Season 6](https://developer.microsoft.com/en-us/reactor/series/S-1720/) (Architect → Measure → **Operate**)
 
 Modernizing legacy applications at scale is only half the journey. The AI systems that follow need continuous monitoring, fast incident response, and dependable day-to-day operations, without adding to the engineering burden. This session follows that path end to end: **modernize legacy applications** with automated, reviewable upgrades, then **operate and scale AI systems** with self-healing agents.
 
